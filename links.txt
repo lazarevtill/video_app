@@ -1,0 +1,7 @@
+https://dev.to/madhubankhatri/online-video-sharing-website-django-project-3abo
+https://stackoverflow.com/questions/47958607/django-build-video-website-similar-to-youtube
+https://github.com/DanielLopezCS/Django-Tube-Video-Website-Powered-By-Django
+https://qna.habr.com/q/478196
+https://docs.djangoproject.com/en/3.2/topics/files/
+https://docs.djangoproject.com/en/3.2/topics/migrations/
+https://www.education-ecosystem.com/andreybu/RaWGm-how-to-create-a-youtube-clone-in-python-and-django/9b4Kz-youtube_webapp/
